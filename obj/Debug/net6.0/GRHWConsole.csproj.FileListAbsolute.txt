@@ -1,0 +1,15 @@
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\bin\Debug\net6.0\GRHWConsole.exe
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\bin\Debug\net6.0\GRHWConsole.deps.json
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\bin\Debug\net6.0\GRHWConsole.runtimeconfig.json
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\bin\Debug\net6.0\GRHWConsole.dll
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\bin\Debug\net6.0\GRHWConsole.pdb
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\obj\Debug\net6.0\GRHWConsole.csproj.AssemblyReference.cache
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\obj\Debug\net6.0\GRHWConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\obj\Debug\net6.0\GRHWConsole.AssemblyInfoInputs.cache
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\obj\Debug\net6.0\GRHWConsole.AssemblyInfo.cs
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\obj\Debug\net6.0\GRHWConsole.csproj.CoreCompileInputs.cache
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\obj\Debug\net6.0\GRHWConsole.dll
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\obj\Debug\net6.0\refint\GRHWConsole.dll
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\obj\Debug\net6.0\GRHWConsole.pdb
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\obj\Debug\net6.0\GRHWConsole.genruntimeconfig.cache
+D:\source\GitHub\GRHW\GRHWConsole\GRHomeworkConsole\obj\Debug\net6.0\ref\GRHWConsole.dll

@@ -51,6 +51,9 @@ else
                         data = data.OrderByDescending(d => d.LastName)
                         .ToList<SomeData>();
                         break;
+                    default:
+                        Console.WriteLine("Invalid sort parameter provided");
+                        break;
              
                 }
 
